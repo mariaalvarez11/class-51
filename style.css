@@ -1,0 +1,29 @@
+h1 {
+    color: #b700ff;
+}
+
+body {
+    background-color: #808080
+}
+.header {
+    background-color: rgba(202, 67, 255, 0.883);
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.socials {
+    display: flex;
+    justify-content: flex-end;
+}
+
+h2,p {
+    text-align: center;
+    color: #603f92
+}
+
